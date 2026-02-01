@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+src/mytorch/__init__.py
+src/mytorch.egg-info/PKG-INFO
+src/mytorch.egg-info/SOURCES.txt
+src/mytorch.egg-info/dependency_links.txt
+src/mytorch.egg-info/requires.txt
+src/mytorch.egg-info/top_level.txt

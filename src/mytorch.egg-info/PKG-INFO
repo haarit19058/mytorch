@@ -1,0 +1,15 @@
+Metadata-Version: 2.4
+Name: mytorch
+Version: 0.1.0
+Summary: A minimal PyTorch-like deep learning library
+Author-email: d0lph1n <you@example.com>
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+Requires-Dist: numpy
+Provides-Extra: dev
+Requires-Dist: pytest; extra == "dev"
+Requires-Dist: black; extra == "dev"
+Requires-Dist: ruff; extra == "dev"
+
+# mytorch
+personal backprop engine with pytorch like api and functionality. Using numpy as backend,
